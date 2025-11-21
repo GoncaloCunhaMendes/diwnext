@@ -13,10 +13,9 @@ export default function page() {
                     <Image
                     src={"/tecnologias/" + tecnologia.image}
                     alt="Logotipo do react"
-                    width={200}
-                    height={200}
+                    width={100}
+                    height={100}
                     />
-                    
                 </li> 
             })}
         </ul>
