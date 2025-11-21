@@ -16,6 +16,7 @@ export default function page() {
                     width={200}
                     height={200}
                     />
+                    
                 </li> 
             })}
         </ul>
