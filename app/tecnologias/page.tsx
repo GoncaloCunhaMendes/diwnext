@@ -15,6 +15,7 @@ export default function page() {
                     alt="Logotipo do react"
                     width={100}
                     height={100}
+                    
                     />
                 </li> 
             })}
