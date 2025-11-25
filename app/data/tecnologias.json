@@ -16,5 +16,47 @@
     "image": "js_image.svg",
     "description": "Linguagem de programação que adiciona interatividade ao frontend.",
     "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Superset do JavaScript que adiciona tipagem estática.",
+    "rating": 4
+  },
+  {
+    "title": "React",
+    "image": "react.svg",
+    "description": "Biblioteca JavaScript para construção de interfaces de utilizador.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework React que permite SSR, SSG e melhorias de performance.",
+    "rating": 5
+  },
+  {
+    "title": "Node.js",
+    "image": "nodejs.svg",
+    "description": "Ambiente de execução JavaScript no servidor.",
+    "rating": 4
+  },
+  {
+    "title": "Python",
+    "image": "python.svg",
+    "description": "Linguagem versátil usada em web, automação e ciência de dados.",
+    "rating": 4
+  },
+  {
+    "title": "Git",
+    "image": "git.svg",
+    "description": "Sistema de controlo de versões amplamente utilizado.",
+    "rating": 5
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwind.svg",
+    "description": "Framework CSS utilitária para criação rápida de interfaces.",
+    "rating": 5
   }
 ]
