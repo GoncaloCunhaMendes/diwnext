@@ -5,7 +5,7 @@ export default function ProjetosPage() {
     <div>
       <h1>Os Meus Projetos </h1>
       <DescricaoProjetos/>
-    
+
     </div>
     
   )
