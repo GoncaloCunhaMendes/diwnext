@@ -13,6 +13,7 @@ export default function TecnologiaPage() {
       <p>
         <TecnologiaDetailsCard
         description = {tecnologia.description}
+        title={tecnologia.title}
         />
       </p>
       <Link href="/tecnologias">
