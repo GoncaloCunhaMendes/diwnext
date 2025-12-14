@@ -4,7 +4,7 @@ import { useParams } from 'next/navigation';
 import useSWR from 'swr';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Produto } from '@/models/interfaces';
+import { Produto } from '@/models/interface';
 import { useEffect, useState } from 'react';
 
 const API_BASE = 'https://deisishop.pythonanywhere.com';
