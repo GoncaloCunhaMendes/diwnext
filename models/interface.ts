@@ -21,12 +21,6 @@ export interface Paises {
   name: {
     common: string;
     official: string;
-    nativeName?: {
-      [key: string]: {
-        official: string;
-        common: string;
-      };
-    };
   };
   area: number;
   population: number;
